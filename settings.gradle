@@ -1,0 +1,2 @@
+rootProject.name='FlareEbook'
+include ':app'
